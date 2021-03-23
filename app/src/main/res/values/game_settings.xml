@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="health_hud_x">4</string>
+    <string name="health_hud_y">4</string>
+    <string name="points_hud_x">4</string>
+    <string name="points_hud_y">10</string>
+    <string name="fps_hud_x">4</string>
+    <string name="fps_hud_y">70</string>
+    <string name="power_hud_x">100</string>
+    <string name="power_hud_y">4</string>
+    <string name="level_hud_x">4</string>
+    <string name="level_hud_y">16</string>
+
+    <integer name="bg_color">0</integer>
+
+    <string name="sfx_left_volume">0.8f</string>
+    <string name="sfx_right_volume">0.8f</string>
+    <string name="sfx_rate">1.0f</string>
+    <integer name="sfx_priority">1</integer>
+    <integer name="sfx_loop">0</integer><!-- -1 loop forever, 0 play once -->
+    <string name="default_music_volume">0.6f</string>
+    <integer name="max_streams">11</integer>
+
+    <integer name="player_health">5</integer>
+    <integer name="player_immunity_time">60</integer>
+
+    <integer name="game_level_one">1</integer>
+
+    <string name="world_width">200</string>
+    <string name="world_height">120</string>
+    <string name="teleport_cd">1</string>
+    <string name="laser_cd">0.25</string>
+    <string name="boost_cd">0.25</string>
+    <integer name="star_count">100</integer>
+    <integer name="asteroid_count">12</integer>
+    <integer name="particle_count">25</integer>
+    <integer name="flame_count">5</integer>
+
+    <string name="text_scale">0.95</string>
+
+    <string name="rotation_velocity">360</string>
+    <string name="thrust">10</string>
+    <string name="drag">0.99</string>
+    <string name="min_particle_rotation">180</string>
+    <string name="max_particle_rotation">-180</string>
+    <string name="particle_speed">10</string>
+    <string name="particle_time_to_live">1.5</string>
+
+    <string name="bullet_speed">120</string>
+    <string name="bullet_time_to_live">2</string>
+    <string name="flame_speed">120</string>
+    <string name="flame_time_to_live">1.2</string>
+
+    <string name="small_max_vel">30</string>
+    <string name="small_min_vel">-30</string>
+    <string name="medium_max_vel">15</string>
+    <string name="medium_min_vel">-15</string>
+    <string name="large_max_vel">8</string>
+    <string name="large_min_vel">-8</string>
+
+    <string name="small_width">3</string>
+    <string name="medium_width">6</string>
+    <string name="large_width">12</string>
+    <string name="flame_width">4</string>
+    <string name="particle_width">1.5</string>
+    <string name="player_width">8</string>
+    <string name="player_height">12</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AsteroidGL</string>
+
+    <string name="points_collected_hud">Points: </string>
+    <string name="health_hud">Health: </string>
+    <string name="fps_hud">FPS: </string>
+    <string name="power_hud">Power: </string>
+    <string name="power_ready_hud">Ready</string>
+    <string name="power_cooldown_hud">CD</string>
+    <string name="level_hud">Level: </string>
+</resources>
